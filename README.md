@@ -1,0 +1,2 @@
+# linuxpalvelimet
+School homework
